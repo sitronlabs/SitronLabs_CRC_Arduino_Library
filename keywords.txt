@@ -1,0 +1,3 @@
+crc8	KEYWORD1
+crc8	KEYWORD2
+process	KEYWORD2
